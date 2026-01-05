@@ -1,0 +1,9 @@
+
+{
+  "name": "Academic Portal",
+  "description": "A comprehensive academic management system featuring specialized dashboards for students, teachers, and administrators. It includes course tracking, grade management, user administration, and system settings with a modern, mobile-first design.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
